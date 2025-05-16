@@ -8,8 +8,9 @@
 
 ### Installation
 1. Clone this repository
-- git clone git remote add origin https://github.com/prathamesh32003/covid19-dashboard.git
-- cd covid19-dashboard
+`git clone https://github.com/prathamesh32003/covid19-dashboard.git`
+`- cd covid19-dashboard`
+```
 
 2. Install Dependancies
 - npm install 
